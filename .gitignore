@@ -1,3 +1,10 @@
+# Other folders
+.DS_Store
+Pictures
+package.json
+package-lock.json
+tailwind.config.js
+
 # Logs
 logs
 *.log
